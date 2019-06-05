@@ -82,7 +82,7 @@ You can now prepare the dataframe for plotting using the
 ```python
 intervals_df = sp.prepare_for_polarityplot(polarity_df)
 ```
-![table example](example_table.png)
+![table example](example_table.png) <Br/>
 For showing a nice lickert\-plot of the polarity\-distribution,
 you can use the "polarityplot\_lickert()"\-method:
 ```python
