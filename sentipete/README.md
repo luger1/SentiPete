@@ -7,9 +7,11 @@
 * You can analyse your text for user-given keywords to get associated polarity-values
 * Uses SpaCy's tokenizer/POS-tagger and dependency-parser to get keyword associated words
 * Works with experimental polarity-enhancer, polarity-reducer, polarity-switcher (due to negations)
-* Example: Das Wetter  ist sehr     schön    . Zum Glück bin ich         nicht    blind. <Br/>
+<pre>
+* Example: Das Wetter  ist sehr     schön    . Zum Glück bin ich         nicht    blind.
                keyword     enhancer sentiment                keyword     negation sentiment
                0.01215 <\- 1.5   x  0.0081                   0.1978  <\-\-1   x   \-0.1978
+</pre>
 
 ## Installation notes
 
