@@ -1,0 +1,12 @@
+spacy
+re
+os
+pickle
+numpy
+pandas
+germalemma
+nltk
+sklearn
+matplotlib
+tqdm
+seaborn
