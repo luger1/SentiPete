@@ -10,8 +10,8 @@
 * Example: 
   <pre>
   Das Wetter  ist sehr     schön    . Zum Glück ist meine Freundin    nicht    blind.
-               keyword     enhancer sentiment             keyword     negation sentiment
-               0.01215 <-  1.5   x  0.0081                0.1978  <-  -1   x   -0.1978
+      keyword     enhancer sentiment                      keyword     negation sentiment
+      0.01215 <-  1.5   x  0.0081                         0.1978  <-  -1   x   -0.1978
   </pre>
 
 ## Installation notes
