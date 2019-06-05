@@ -1,9 +1,0 @@
-spacy-nightly
-numpy
-pandas
-germalemma
-nltk
-sklearn
-matplotlib
-tqdm
-seaborn
