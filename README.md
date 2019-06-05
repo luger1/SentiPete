@@ -20,7 +20,7 @@
 * Installation via terminal/cmd via:
 ```shell
 git clone https://github.com/Max4Bio/SentiPete/
-cd in/dir/of/this/README.md
+cd SentiPete
 pip install ./dist/sentipete-pkg-MaxImune-1.0.1.tar.gz # current release
 ```
 
