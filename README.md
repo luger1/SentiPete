@@ -1,4 +1,4 @@
-# SentiPete Package
+# SentiPete Package (only german support!)
 
 ## Description
 
@@ -19,6 +19,7 @@
 * Installation currently works online offline on your local platform
 * Installation via terminal/cmd via:
 ```shell
+git clone https://github.com/Max4Bio/SentiPete/
 cd in/dir/of/this/README.md
 pip install ./dist/sentipete-pkg-MaxImune-1.0.1.tar.gz # current release
 ```
