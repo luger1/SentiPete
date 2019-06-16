@@ -16,13 +16,17 @@
 
 ## Installation notes
 
-* Installation currently works online offline on your local platform
+* Installation currently works only offline on your local platform
 * Installation via terminal/cmd via:
 ```shell
 git clone https://github.com/Max4Bio/SentiPete/
 cd SentiPete
 pip install ./dist/sentipete-pkg-MaxImune-1.0.1.tar.gz # current release
 ```
+
+## Requirements
+
+* [See requirements.txt](./requirements.txt) 
 
 ## Preparations
 
